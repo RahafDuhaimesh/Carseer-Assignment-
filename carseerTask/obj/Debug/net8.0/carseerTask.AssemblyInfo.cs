@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("carseerTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffc891f039351fa1fdf71a9ed85786fc4be76ab4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4e8be2c1001e6e4946188738225becef6b4d241")]
 [assembly: System.Reflection.AssemblyProductAttribute("carseerTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("carseerTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
