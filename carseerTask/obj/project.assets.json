@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\carseerTask\\carseerTask.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Carseer-Assignment-\\carseerTask\\carseerTask.csproj",
       "projectName": "carseerTask",
-      "projectPath": "C:\\Users\\user\\Desktop\\carseerTask\\carseerTask.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Carseer-Assignment-\\carseerTask\\carseerTask.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\carseerTask\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Carseer-Assignment-\\carseerTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
