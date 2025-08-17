@@ -10,7 +10,10 @@ git clone https://github.com/RahafDuhaimesh/Carseer-Assignment-.git
 cd Carseer-Assignment-/carseerTask
 
 3. Build and run the application:
+   
 dotnet build
+
+
 dotnet run
 
 5. Open the browser and go to: http://localhost:5000
