@@ -26,6 +26,10 @@ docker run -d -p 8080:80 -e ASPNETCORE_URLS=http://+:80 -e DOTNET_RUNNING_IN_CON
 
 8. Open the browser and go to: http://localhost:8080
 
+9. The app is hosted on AWS, please check this link:
+    
+http://carseerapp-env.eba-ejssdpqy.eu-north-1.elasticbeanstalk.com/
+
 
 
 
