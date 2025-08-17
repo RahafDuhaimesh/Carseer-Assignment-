@@ -1,0 +1,24 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio folder
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Others
+*.log
+*.tlog
+*.dbmdl
+*.bak
+*.backup
+*.cache
+*.config
+*.tmp
+*.temp
